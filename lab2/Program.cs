@@ -21,26 +21,13 @@ namespace lab2
             string Umnoj;
             string Razdel;
 
-            if (X == "+")
-            {
-                int C = A + B;
-                Console.WriteLine("Ответ: " + C);
-            }
-            if (X == "-")
-            {
-                int C = A - B;
-                Console.WriteLine("Ответ: " + C);
-            }
+            
             if (X == "*")
             {
                 int C = A * B;
                 Console.WriteLine("Ответ: " + C);
             }
-            if (X == "/")
-            {
-                int C = A / B;
-                Console.WriteLine("Ответ: " + C);
-            }
+            
 
             Console.ReadKey();
 
