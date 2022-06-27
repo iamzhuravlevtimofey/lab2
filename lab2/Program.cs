@@ -28,6 +28,7 @@ namespace lab2
             }
            
 
+
             Console.ReadKey();
 
         }
