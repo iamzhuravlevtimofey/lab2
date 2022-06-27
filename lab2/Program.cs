@@ -22,9 +22,9 @@ namespace lab2
             string Razdel;
 
             
-            if (X == "*")
+            if (X == "/")
             {
-                int C = A * B;
+                int C = A / B;
                 Console.WriteLine("Ответ: " + C);
             }
             
