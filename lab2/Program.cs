@@ -42,6 +42,7 @@ namespace lab2
                 Console.WriteLine("Ответ: " + C);
             }
 
+
             Console.ReadKey();
 
         }
